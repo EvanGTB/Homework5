@@ -23,6 +23,7 @@ namespace BudwillLab2
         //This event closes the program
         private void btnExit_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Peanut Butter","Jelly Time");
             this.Close();
         }
 
