@@ -1,0 +1,11 @@
+C:\0-IntroToProgramming\BudwillLab2\BudwillLab2\bin\Debug\BudwillLab2.exe.config
+C:\0-IntroToProgramming\BudwillLab2\BudwillLab2\bin\Debug\BudwillLab2.exe
+C:\0-IntroToProgramming\BudwillLab2\BudwillLab2\bin\Debug\BudwillLab2.pdb
+C:\0-IntroToProgramming\BudwillLab2\BudwillLab2\obj\Debug\BudwillLab2.csproj.AssemblyReference.cache
+C:\0-IntroToProgramming\BudwillLab2\BudwillLab2\obj\Debug\BudwillLab2.csproj.SuggestedBindingRedirects.cache
+C:\0-IntroToProgramming\BudwillLab2\BudwillLab2\obj\Debug\BudwillLab2.Form1.resources
+C:\0-IntroToProgramming\BudwillLab2\BudwillLab2\obj\Debug\BudwillLab2.Properties.Resources.resources
+C:\0-IntroToProgramming\BudwillLab2\BudwillLab2\obj\Debug\BudwillLab2.csproj.GenerateResource.cache
+C:\0-IntroToProgramming\BudwillLab2\BudwillLab2\obj\Debug\BudwillLab2.csproj.CoreCompileInputs.cache
+C:\0-IntroToProgramming\BudwillLab2\BudwillLab2\obj\Debug\BudwillLab2.exe
+C:\0-IntroToProgramming\BudwillLab2\BudwillLab2\obj\Debug\BudwillLab2.pdb
